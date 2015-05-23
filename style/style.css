@@ -1,0 +1,49 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+addres, ul, ol, dl, dt, dd, table, th, td, form, fieldset{
+     margin:0;
+     padding:0;
+     font-weight: normal;
+}
+
+body {
+     margin: 0;
+     font-family: "メイリオ", "ＭＳ Ｐゴシック", sans-serif;
+     letter-spacing: 0.2em;
+     height:100%;
+}
+
+h1,h2,h3,h4,h5 {
+     font-weight: normal;
+}
+
+a {
+     text-decoration: none;
+}
+.r {
+     text-align: right;
+}
+
+.l {
+     text-align: left;
+}
+
+.center {
+     text-align: center;
+}
+
+ul {
+     margin-top: 0px;
+}
+
+ul li {
+     list-style: none;
+}
+
+table {
+     border-collapse:collapse;
+     border-spacing:0;
+}
+
+img{
+     border:0;
+}
